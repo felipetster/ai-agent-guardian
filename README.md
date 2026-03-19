@@ -6,6 +6,9 @@
 ![AI](https://img.shields.io/badge/AI-LLM_Evaluation-purple)
 ![Security](https://img.shields.io/badge/Security-Prompt_Injection-red)
 
+🚧 **WORK IN PROGRESS: Architectural Blueprint & Scope** 🚧
+> *Note: This repository currently houses the Product Requirements Document (PRD) and the architectural blueprint for the AI Agent Guardian. The core testing logic, CI/CD pipelines, and automation scripts (Cypress/K6) are actively under development.*
+
 ## The Challenge: Testing the Non-Deterministic
 Testing deterministic APIs is straightforward. Testing an LLM-powered AI Assistant is a completely different frontier. The same prompt can yield different responses, making traditional assertion-based testing insufficient. 
 
